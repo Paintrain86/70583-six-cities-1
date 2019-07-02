@@ -4629,6 +4629,7 @@
       "version": "16.8.6"
     },
     "react-redux": "7.1.0",
+    "react-router-dom": "5.0.1",
     "react-test-renderer": {
       "dev": true,
       "integrity": "sha512-H2srzU5IWYT6cZXof6AhUcx/wEyJddQ8l7cLM/F7gDXYyPr4oq+vCIxJYXVGhId1J706sqziAjuOEjyNkfgoEw==",
